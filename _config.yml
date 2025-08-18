@@ -3,7 +3,7 @@
 #description: Bookmark this to keep an eye on my project updates!
 
 title: Absent Service's Github Page
-tagline: tagline
+#tagline: tagline
 description: Come check out our projects
 show_downloads: false #["true" or "false" (unquoted) to indicate whether to provide a download URL]
 #google_analytics: [Your Google Analytics tracking ID]
