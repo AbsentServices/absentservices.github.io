@@ -1,1 +1,1 @@
-Welcome to Absent Services Guthub project page.
+List of our projects
