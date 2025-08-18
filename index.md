@@ -4,8 +4,8 @@
 * [DiscordJsBot](https://github.com/AbsentServices/DiscordJsBot)
 
 # Discord Servers
-* [Network](https://discord.gg/Da73My9ng2) | Gaming Discord for all
-* [Absent Discord Templates](https://discord.gg/SHPab9YH6T) | Free Discord Templates
+* [Network](https://discord.gg/Da73My9ng2) - Gaming Discord for all
+* [Absent Discord Templates](https://discord.gg/SHPab9YH6T) - Free Discord Templates
 
 
 # Game Servers
