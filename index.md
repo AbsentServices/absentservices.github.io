@@ -9,4 +9,4 @@
 
 
 # Game Servers
-* [Galaxy Rust - Coming soon]()
+* [Galaxy Rust Servers](https://discord.gg/9C2fqSHk/NYg4jngmX4) - PVE Rust Server.
