@@ -1,17 +1,24 @@
-## Hi there 👋
+# ABSENT SERVICES
+[![Discord](https://gist.github.com/cxmeel/0dbc95191f239b631c3874f4ccf114e2/raw/discord.svg)](https://discord.gg/SD5AsvPrZW)
 
-🙋‍♀️ Hello and Welcome to AbsentServices Github page. On here you will see all the code we have done & more.
+A landing page and project directory built for the GitHub Pages site [absentservices.github.io](https://absentservices.github.io). Designed with a red-and-black cyberpunk/CRT aesthetic, this repository serves as a hub for software projects, RuneLite plugins, Discord templates, and game server communities[cite: 1].
 
-🌈 Want to help out? Message us on here.
---------------------------------------------------------------------------------------------------------------
+---
+
+## Features
+
+* **Cyberpunk / CRT Aesthetic**: Includes scanline effects, grid backgrounds, neon red accents, and custom typography (`Chakra Petch` & `Share Tech Mono`).
+* **Interactive UI**: Hover animations, glitch text effects, and styled card links.
+* **Responsive Layout**: Grid system that scales across mobile, tablet, and desktop views.
+* **Pure Web Stack**: Lightweight setup using plain HTML5 and CSS3 without external JavaScript or heavy frameworks.
+
+---
 
 
-<!--
-**Here are some ideas to get you started:**
+### Software & Repositories
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+* **[Repositories](https://github.com/orgs/AbsentServices/repositories)**:
+
+
+
+
